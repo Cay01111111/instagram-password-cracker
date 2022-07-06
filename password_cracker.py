@@ -12,7 +12,7 @@ def login(username, password):
         return False
 
 def instagram_password_cracker():
-    username = input('Enetr account username: ') # Enter the username of the account whose password you want.
+    username = input('yaafavv_hailey: ') # Enter the username of the account whose password you want.
     print("")
     pwo = PasswordGenerator()
     pwo.excludeschars = "!%()$^&*+-/=?, _<>."
